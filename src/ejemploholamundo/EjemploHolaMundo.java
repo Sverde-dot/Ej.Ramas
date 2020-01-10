@@ -17,6 +17,7 @@ public class EjemploHolaMundo {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("HOLA MUNDO");
+        System.out.println("Fin de la cita");
     }
     
 }
